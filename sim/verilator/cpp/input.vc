@@ -1,0 +1,7 @@
+
++librescan +libext+.v
+ -y ../../../rtl
+ -y ../../../rtl/core
+ +incdir+../../../rtl
+ +incdir+../../../rtl/core
+ +incdir+../include
